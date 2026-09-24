@@ -1,0 +1,23 @@
+# Nuxt dev / build outputs
+.output
+.data
+.nuxt
+.nitro
+.cache
+
+# Node dependencies
+node_modules
+
+# Logs
+logs
+*.log
+
+# Misc
+.DS_Store
+.env
+.env.*
+!.env.example
+
+# Graphify cache
+graphify-out/cache
+
